@@ -16,3 +16,7 @@ npm run web
 
 # u want it to make someone feel wooooaaah? ;)
 npm run deploy
+
+#ps
+
+it's up to you to change whatever it's in the repository to make it look like you want, at your own risk ñññññññññññññññññññ
