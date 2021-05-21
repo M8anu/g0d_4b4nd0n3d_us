@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "m1ndbl0w",
   "homepage": "https://m8anu.github.io/g0d_4b4nd0n3d_us/",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "dependencies": {
     "blessed": "^0.1.81",
     "node-sass-chokidar": "^0.0.3",
