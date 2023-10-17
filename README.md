@@ -1,5 +1,5 @@
 # g0d_4b4nd0n3d_us
-
+This is extracted from Mr.Robot TV Series, the speech surprised me, but I am not religiously vinculated to his views nor this should be an offense to anybody's faiths.
 # clone the repo
 git clone https://github.com/M8anu/g0d_4b4nd0n3d_us
 # load directory
