@@ -118,9 +118,9 @@ export default class ElliotOnG0d extends Component {
               </Console>}
         <img alt="Hidden-Gif" className="Hidden-Gif" src={require('./assets/elliot_on_god.gif')} />
         <p className="Mindblow">
-          <a href="https://twitter.com/_M1ndbl0w">@_M1ndbl0w</a>
+          <a href="https://www.youtube.com/watch?v=NCe8NUK4BjQ">Clip from TV series</a>
           <span> | </span>
-          <a href="https://github.com/M8anu/g0d_4b4nd0n3d_us">source</a>
+          <a href="https://github.com/M8anu/g0d_4b4nd0n3d_us">GitHub</a>
         </p>
       </main>
     )
